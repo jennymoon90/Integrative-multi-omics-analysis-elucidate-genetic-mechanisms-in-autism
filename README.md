@@ -79,7 +79,7 @@ Scripts in this repository load `.rda` and other intermediate data files generat
 | Chromatin loop calling | FitHiC2 | 2.0.7 |
 | FIRE analysis | FIREcaller | 1.40 |
 | Single-cell ATAC | ArchR | 1.0.2 |
-| Visualization | plotgardener, ComplexHeatmap, ggplot2 | — |
+| Visualization | plotgardener, ComplexHeatmap, ggplot2 | 1.10.2, 2.20.0, 4.0.1 |
 
 ---
 
